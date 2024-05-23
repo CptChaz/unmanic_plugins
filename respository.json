@@ -1,0 +1,15 @@
+{
+  "id": "unmanic_plugins",
+  "name": "Unmanic Plugins",
+  "description": "A collection of custom plugins for Unmanic, with an emphasis on the *arr apps.",
+  "plugins": [
+    {
+      "id": "audio_check",
+      "name": "Audio Check",
+      "url": "https://github.com/CptChaz/unmanic_plugins/dev/audio_check/config.json"
+    }
+  ]
+}
+
+
+
