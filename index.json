@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "id": "ffmpeg_command",
+      "name": "FFmpeg Command",
+      "description": "A plugin for running a custom ffmpeg command for Unmanic.",
+      "entry_file": "plugins/ffmpeg_command/plugin.py",
+      "author": "CptChaz",
+      "repo": "https://github.com/CptChaz/unmanic_plugins",
+      "branch": "main"
+    }
+  ]
+}
